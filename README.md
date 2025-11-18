@@ -57,3 +57,8 @@ Elige una opción: 1
 Ingresa el monto: 50
 
 Resultado: 50 USD = 200 PEN
+
+
+## Comentario personal
+
+Este es mi primer proyecto con una edad temprana(15) ; Prometo mejorar en mi proyecto basico a uno funcional y profesional😝
