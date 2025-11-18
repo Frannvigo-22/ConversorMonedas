@@ -32,19 +32,25 @@ Asegúrate de tener **Python 3** instalado.
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Frannvigo-22/ConversorMonedas.git
-Entra a la carpeta del proyecto:
+   ```
 
-bash
-Copiar código
+2. Entra a la carpeta del proyecto:
+
+```bash
 cd ConversorMonedas
-Ejecuta el programa:
+```
 
-bash
-Copiar código
+3. Ejecuta el programa:
+
+```bash
 python app.py
-▶️ Ejemplo de uso
-markdown
-Copiar código
+```
+
+---
+
+## ▶️ Ejemplo de uso
+
+```
 --- Conversor de Monedas ---
 1. USD a PEN
 2. USD a ARS
@@ -57,7 +63,7 @@ Elige una opción: 1
 Ingresa el monto: 50
 
 Resultado: 50 USD = 200 PEN
-
+```
 
 ## Comentario personal
 
